@@ -1,0 +1,21 @@
+# ninja log v5
+0	70	7138907179591825	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	9fc69d89326b067c
+5621	5671	7138907235617519	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	846c0e8e4ab17a0b
+5621	5671	7138907235617519	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	846c0e8e4ab17a0b
+0	70	7138907179591825	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	9fc69d89326b067c
+70	5621	7138907235119105	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	235fddddf77d7f1b
+5672	5718	7138907236092681	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	a363d737ee70b5e8
+5864	5912	7138907238028060	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	5768f811c4670ff0
+5672	5718	7138907236092681	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	a363d737ee70b5e8
+70	5621	7138907235119105	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	235fddddf77d7f1b
+5718	5767	7138907236578131	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	b27badae34c922a8
+5718	5767	7138907236578131	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	b27badae34c922a8
+5864	5912	7138907238028060	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	5768f811c4670ff0
+5767	5815	7138907237058620	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	59717447035f40e6
+5767	5815	7138907237058620	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	59717447035f40e6
+5815	5864	7138907237550589	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	f0f1e702dcc0502a
+5815	5864	7138907237550589	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	f0f1e702dcc0502a
+5912	5987	7138907238781256	CMakeFiles/curl-populate-complete	e5dfba106ee7d7a
+5912	5987	7138907238781256	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e5dfba106ee7d7a
+5912	5987	7138907238781256	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	e5dfba106ee7d7a
+5912	5987	7138907238781256	C:/Users/vladc/CLionProjects/untitled2/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	e5dfba106ee7d7a
